@@ -3,6 +3,7 @@ import java.io.*;
 import java.util.*;
 import javax.swing.*;
 
+//Test comment for Git commit.
 public class pathfinderGui extends JFrame
 {
 	JPanel pane = new JPanel();
